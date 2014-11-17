@@ -1,0 +1,3 @@
+[submodule "scratch-child/foundation"]
+	path = scratch-child/foundation
+	url = https://github.com/zurb/foundation.git
